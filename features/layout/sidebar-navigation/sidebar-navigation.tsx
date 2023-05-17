@@ -69,7 +69,7 @@ const Header = styled.header`
 `;
 
 const Logo = styled.img`
-  width: 7.375rem;
+  height: 23.48px;
 
   @media (min-width: ${breakpoint("desktop")}) {
     margin: ${space(0, 4)};
